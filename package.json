@@ -16,7 +16,7 @@
     "better-scroll": "^1.15.2",
     "core-js": "^2.6.5",
     "cube-ui": "~1.12.15",
-    "date-and-time": "^0.10.0",
+    "date-and-time": "^0.14.2",
     "mathjs": "^6.2.3",
     "md5": "^2.2.1",
     "mint-ui": "^2.2.13",
